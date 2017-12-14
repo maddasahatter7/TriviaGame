@@ -4,8 +4,9 @@
 // still be placed randomly on the screen for anyone who goes to take the quiz. I am writing this so that you 
 // know I have been doing research at home on this and that I get it so far. I feel like using this to store
 //  my questions makes things easier and more organized. So yeah, ha-ha. there is my disclaimer!
+<div id="testing"></div>
 
-{"quizquestions":[
+quizQuestions = [
     {
     "question":"How many times is the word F@#k said throughout the film?",
     "choice1":105,
@@ -63,4 +64,4 @@
     "choice4":"A lawyer"
     }   
     ]
-    }
+    
